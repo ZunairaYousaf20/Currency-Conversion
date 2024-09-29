@@ -22,7 +22,7 @@ across different currencies.
 
 ## **How to Run the Application**
 1. Clone the repository:
-`git clone https://github.com/your-repo/currency-conversion-service.git cd currency-conversion-service`
+`git clone https://github.com/ZunairaYousaf20/Currency-Conversion.git cd currency-conversion-service`
 2. Set up your API keys in the `application.properties` file:
 `api.base.url=http://api.exchangerate-api.com/v4/latest
 api.key=your-api-key-here`
